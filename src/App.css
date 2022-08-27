@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+a.navbar-brand {
+  color: orange;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+button.btn.btn-outline-success {
+  color: #f8f9fa;
+  border: none;
+  background: orange;
+  font-weight: 500;
+}
